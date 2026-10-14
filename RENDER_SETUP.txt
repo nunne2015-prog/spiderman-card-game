@@ -1,0 +1,9 @@
+Render Web Service settings:
+Language: Node
+Branch: main
+Root Directory: leave empty
+Build Command: npm install
+Start Command: npm start
+Health Check Path (optional): /health
+
+Do not upload node_modules to GitHub.
